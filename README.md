@@ -64,12 +64,11 @@ Before running this project, make sure you have the following prerequisites inst
 2. Navigate to the project directory:
 
     ```sh
-    cd tdd
+    cd tdd-project
+    
 3. Run the program:
     ```sh
-    rspec specs/factorial_test.rb
-    rspec specs/fizzbuzz_test.rb
-    rspec reverse_test.rb
+    rspec specs/solver_spec.rb
 
 <!-- AUTHORS -->
 
