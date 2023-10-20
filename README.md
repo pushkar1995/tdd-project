@@ -79,6 +79,12 @@ Before running this project, make sure you have the following prerequisites inst
 - Twitter: [@Pushkar9951](https://twitter.com/Pushkar9951)
 - LinkedIn: [pushkargautam](https://www.linkedin.com/in/pushkar-gautam-94a385271/)
 
+👤 **Maurice Coker**
+
+- GitHub: [@coker2019](https://github.com/coker2019)
+- Twitter: [@Olabisi_coker](https://twitter.com/Olabisi_coker)
+- LinkedIn: [maurice-coker-174b129b](https://linkedin.com/in/maurice-coker-174b129b)
+
 ## 🔭 Future Features <a name="future-features"></a>
 
 <details>
