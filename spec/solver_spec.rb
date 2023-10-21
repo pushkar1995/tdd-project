@@ -25,22 +25,26 @@ RSpec.describe Solver do
       expect(solver.reverse('hello')).to eq('olleh')
     end
   end
-  describe ‘#fizzbuzz’ do
-    it ‘returns “fizz” when given a multiple of 3’ do
+
+  describe '#fizzbuzz' do
+    it 'returns "fizz" when given a multiple of 3' do
       solver = Solver.new
-      expect(solver.fizzbuzz(9)).to eq(‘fizz’)
+      expect(solver.fizzbuzz(9)).to eq('fizz')
     end
-    it ‘returns “buzz” when given a multiple of 5’ do
+
+    it 'returns "buzz" when given a multiple of 5' do
       solver = Solver.new
-      expect(solver.fizzbuzz(10)).to eq(‘buzz’)
+      expect(solver.fizzbuzz(10)).to eq('buzz')
     end
-    it ‘returns “fizzbuzz” when given a multiple of both 3 and 5’ do
+
+    it 'returns "fizzbuzz" when given a multiple of both 3 and 5' do
       solver = Solver.new
-      expect(solver.fizzbuzz(15)).to eq(‘fizzbuzz’)
+      expect(solver.fizzbuzz(15)).to eq('fizzbuzz')
     end
-    it ‘returns the number as a string for other cases’ do
+
+    it 'returns the number as a string for other cases' do
       solver = Solver.new
-      expect(solver.fizzbuzz(7)).to eq(‘7’)
+      expect(solver.fizzbuzz(7)).to eq('7')
     end
   end
 end
